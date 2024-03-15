@@ -13,7 +13,7 @@
 
 - 📝 I write articles on [https://medium.com/@Ishan42](https://medium.com/@Ishan42)
 
-- 💬 Ask me about **Python , React, Flutter , C++...**
+- 💬 Ask me about **Python , React, Flutter and C++ **
 
 - 📫 How to reach me **ispanta03@gmail.com**
 
@@ -22,6 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ishanpanta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ishanpanta1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishan-panta-7101b61b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@ishanpanta1" height="30" width="40" /></a>
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
