@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
-- 👯 I’m looking to collaborate on **LLM's and speech-to-text projects.**
+- 👯 I’m looking to collaborate on **LLM's and chatbots.**
 
 - 📝 I write articles on [https://medium.com/@Ishan42](https://medium.com/@Ishan42)
 
