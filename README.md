@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1shanpanta" alt="1shanpanta" /></a> </p>
 
-- 🔭 I’m currently working on **MediSync**
+- 🔭 I’m currently working on **Personal Research Paper Chatbot**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ispanta03@gmail.com**
 
-- ⚡ Fun fact **I learn Japanese on the side.**
+- ⚡ Fun fact **I learn Japanese and Spanish on the side.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
