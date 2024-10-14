@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1shanpanta" alt="1shanpanta" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Research Paper Chatbot**
+- 🔭 I’m currently working on **Personal Nepali LLM**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
