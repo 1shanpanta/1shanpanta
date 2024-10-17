@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ispanta03@gmail.com**
 
-- ⚡ Fun fact **I learn Japanese and Spanish on the side.**
+- ⚡ Fun fact **I am currently learning Japanese on the side.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
