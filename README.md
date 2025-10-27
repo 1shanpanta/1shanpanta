@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Panta</h1>
-<h3 align="center">Passionate about WebDev , AI and Robotics.</h3>
+<h3 align="center">Passionate about Blockchain, AI and WebDev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shanpanta&label=Profile%20views&color=0e75b6&style=flat" alt="1shanpanta" /> </p>
 
