@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shanpanta&label=Profile%20views&color=0e75b6&style=flat" alt="1shanpanta" /> </p>
 
-- Diving into multi-tenant system design, POS architectures, and subscription management patterns, with a growing focus on cloud-native and distributed systems.
+- Diving into multi-tenant system design, POS architectures, and subscription management dashboards, with a growing focus on cloud-native and distributed systems.
 
 - I write articles on [https://medium.com/@1shanpanta](https://medium.com/@1shanpanta)
 
