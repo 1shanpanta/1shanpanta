@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shanpanta&label=Profile%20views&color=0e75b6&style=flat" alt="1shanpanta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1shanpanta" alt="1shanpanta" /></a> </p>
-
 - 🌱 I’m currently working on and learning about **ZK Proofs , Swaps and Bridges**
 
 - 📝 I write articles on [https://medium.com/@1shanpanta](https://medium.com/@1shanpanta)
