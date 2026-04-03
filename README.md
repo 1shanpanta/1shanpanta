@@ -5,8 +5,6 @@
 
 - Diving into multi-tenant system design, POS architectures, and subscription management dashboards, with a growing focus on cloud-native and distributed systems.
 
-- I write articles on [https://medium.com/@1shanpanta](https://medium.com/@1shanpanta)
-
 - How to reach me **ispanta03@gmail.com**
 
 - Fun fact **I am currently learning Japanese(N5 passed) and French on the side.**
