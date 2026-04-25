@@ -10,10 +10,7 @@
 - Fun fact **I am currently learning Japanese(N5 passed) and French on the side.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/1shanpanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-panta-7101b61b1" height="30" width="40" /></a>
-<a href="https://x.com/1shanpanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="1shanpanta on X" height="30" width="40" /></a>
-</p>
+<p align="left"><a href="https://linkedin.com/in/1shanpanta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://x.com/1shanpanta" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;<a href="mailto:ispanta03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
