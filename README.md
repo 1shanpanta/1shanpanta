@@ -23,3 +23,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1shanpanta&" alt="1shanpanta" /></p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1shanpanta&theme=tokyo-night&hide_border=true&area=true" alt="1shanpanta contribution activity graph" />
+</p>
