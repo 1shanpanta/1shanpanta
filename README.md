@@ -26,7 +26,3 @@
     <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/1shanpanta/1shanpanta/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1shanpanta&theme=tokyo-night&hide_border=true&area=true" alt="1shanpanta contribution activity graph" />
-</p>
