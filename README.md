@@ -10,7 +10,7 @@
 - Fun fact **I am currently learning Japanese(N5 passed) and French on the side.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/1shanpanta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://x.com/1shanpanta" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;<a href="mailto:ispanta03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
+<p align="left"><a href="https://x.com/1shanpanta" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;<a href="mailto:ispanta03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
