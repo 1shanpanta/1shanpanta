@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Panta</h1>
 <h3 align="center">Passionate about Blockchain, AI and WebDev.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1shanpanta&label=Profile%20views&color=0e75b6&style=flat" alt="1shanpanta" /> </p>
-
 - Diving into multi-tenant system design, POS architectures, and subscription management dashboards, with a growing focus on cloud-native and distributed systems.
 
 - How to reach me **ispanta03@gmail.com**
@@ -16,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,c,solidity,react,nextjs,nodejs,fastapi,expo,flutter,html,bootstrap,supabase,mongodb,docker,kubernetes,linux,gcp,vercel,git,figma,qt,pytorch&perline=12" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,solidity,react,nextjs,nodejs,fastapi,flutter,html,bootstrap,supabase,mongodb,docker,kubernetes,linux,gcp,vercel,git,figma,qt,pytorch&perline=12" alt="Languages and Tools" />
   </a>
 </p>
 
