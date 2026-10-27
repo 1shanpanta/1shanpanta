@@ -9,6 +9,10 @@
 
 - Fun fact **I am currently learning Japanese(N5 passed) and French on the side.**
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=1shanpanta&theme=dark" alt="streak stats" />
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
