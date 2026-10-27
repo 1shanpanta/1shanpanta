@@ -9,9 +9,6 @@
 
 - Fun fact **I am currently learning Japanese(N5 passed) and French on the side.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="mailto:ispanta03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
